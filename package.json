@@ -1,0 +1,22 @@
+{
+  "name": "react-7rfg3j",
+  "description": "",
+  "homepage": "https://stackblitz.com/edit/react-7rfg3j",
+  "dependencies": {
+    "react": "16.1.1",
+    "react-dom": "16.1.1",
+    "react-scripts": "1.0.10",
+    "mobx": "3.6.1",
+    "lodash": "4.17.5",
+    "mobx-react": "4.4.3",
+    "styled-components": "3.2.1"
+  },
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
